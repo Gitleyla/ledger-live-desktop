@@ -183,7 +183,7 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "eslint-plugin-standard": "^5.0.0",
     "execa": "^4.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-loader": "^6.2.0",
     "flow-bin": "0.120.1",
     "flow-typed": "^2.6.2",
